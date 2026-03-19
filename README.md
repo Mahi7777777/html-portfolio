@@ -42,13 +42,3 @@ Contact
 HTML5
 
 CSS3
-
-Projects
-
-Contact
-
-🛠️ Built With
-
-HTML5
-
-CSS3
